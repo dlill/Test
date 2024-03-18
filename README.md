@@ -4,6 +4,9 @@ Pharmacokinetics (from Ancient Greek pharmakon "drug" and kinetikos "moving, put
 The substances of interest include any chemical xenobiotic such as pharmaceutical drugs, pesticides, food additives, cosmetics, etc. 
 It attempts to analyze chemical metabolism and to discover the fate of a chemical from the moment that it is administered up to the point at which it is completely eliminated from the body.
 Pharmacokinetics is based on mathematical modeling that places great emphasis on the relationship between drug plasma concentration and the time elapsed since the drug's administration. 
+Change in Issue 2
+Change in Issue 2
+Change in Issue 2
 Pharmacokinetics is the study of how an organism affects the drug, whereas pharmacodynamics (PD) is the study of how the drug affects the organism. 
 Both together influence dosing, benefit, and adverse effects, as seen in PK/PD models.
 
